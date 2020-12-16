@@ -147,7 +147,7 @@ colors = ["colorama (>=0.4.3,<0.5.0)"]
 
 [[package]]
 name = "junit-xml"
-version = "1.8"
+version = "1.9"
 description = "Creates JUnit XML test result documents that can be read by tools such as Jenkins"
 category = "main"
 optional = false
@@ -410,7 +410,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "bc350c2068017fc537bcc3914dca6408aeaaf5336286bd3c7c63796c26769f88"
+content-hash = "5787728e2c0e8033ea8393d5a0acf53525f7da4bdc3579aa6a0c50eb619b8d54"
 
 [metadata.files]
 appdirs = [
@@ -468,7 +468,7 @@ isort = [
     {file = "isort-5.6.4.tar.gz", hash = "sha256:dcaeec1b5f0eca77faea2a35ab790b4f3680ff75590bfcb7145986905aab2f58"},
 ]
 junit-xml = [
-    {file = "junit-xml-1.8.tar.gz", hash = "sha256:602f1c480a19d64edb452bf7632f76b5f2cb92c1938c6e071dcda8ff9541dc21"},
+    {file = "junit_xml-1.9-py2.py3-none-any.whl", hash = "sha256:ec5ca1a55aefdd76d28fcc0b135251d156c7106fa979686a4b48d62b761b4732"},
 ]
 mslex = [
     {file = "mslex-0.3.0-py2.py3-none-any.whl", hash = "sha256:380cb14abf8fabf40e56df5c8b21a6d533dc5cbdcfe42406bbf08dda8f42e42a"},
